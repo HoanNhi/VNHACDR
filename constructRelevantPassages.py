@@ -45,7 +45,7 @@ def judge(data, turn, queryRaws, relevantPassages, queryReform):
     for key in relevantPassages.keys():
         new_query = f"{queryRaw} {queryRaws[key]}"
         for passage in relevantPassages[key]:
-            new_query += " " + passage
+            new_query += " " + passage[1]
         new_queryEmbedded = embedding_model.embed_documents(queryRaw)
         new_query_results = vectorstore.similarity_search_by_vector(new_queryEmbedded.tolist(), k=3)
 
@@ -67,9 +67,8 @@ def judge(data, turn, queryRaws, relevantPassages, queryReform):
         if (raw_score_new > raw_score):
             bestQuery = new_query
             queryReform[query_id] = bestQuery
-            relevantPassages[query_id] = [turn["passage"]]
+            relevantPassages[query_id] = [(turn["pid"], turn["passage"])]
             relevantPassages[query_id].addAll(relevantPassages[key])
-
 
 
 def pseudoRelevantPassage():
@@ -83,13 +82,39 @@ def pseudoRelevantPassage():
         for turn in data["turns"]:
             key = str(data["session_id"]) + "_" + str(turn["turn_id"])
             if data["session_id"] == 0 and turn["turn_id"] == 0:
-                relevantPassages[key] = [turn["passage"]]
+                relevantPassages[key] = [(turn["pid"], turn["passage"])]
                 queryReform[key] = turn["new_question"]
                 queryRaws[key] =  turn["new_question"]
                 continue
             else:
                 queryRaws[key] =  turn["new_question"]
                 judge(data, turn, queryRaws, relevantPassages, queryReform)
+    return relevantPassages, queryReform, queryRaws
+
+def write_results_to_json(relevantPassages, queryReform, queryRaws, output_file="reformulated_queries.json"):
+    output_data = []
+
+    for query_id in relevantPassages:
+        item = {
+            "id": query_id,
+            "new_question": queryRaws.get(query_id, ""),
+            "query": queryReform.get(query_id, ""),
+            "relevant_passages": [
+                {
+                    "pid": pid,
+                    "passage": passage
+                }
+                for pid, passage in relevantPassages[query_id]
+            ]
+        }
+        output_data.append(item)
+
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
+
+def main():
+    relevantPassages, queryReform, queryRaws = pseudoRelevantPassage()
+    write_results_to_json(relevantPassages, queryReform, queryRaws)
 
 
 
