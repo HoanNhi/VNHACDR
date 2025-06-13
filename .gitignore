@@ -1,4 +1,5 @@
 chroma_store/
+chroma_store_new_original/
 .idea/
 datasets/
 question_passage_mapping.json

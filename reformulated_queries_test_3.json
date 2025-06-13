@@ -1,0 +1,242 @@
+[
+  {
+    "id": "0_0",
+    "original_question": " Hệ thống truyền hình của Berlusconi có vai trò gì trong sự nghiệp chính trị của ông?",
+    "relevant_passages": [
+      {
+        "pid": 144208,
+        "passage": " Silvio Berlusconi Quyền sở hữu hệ thống truyền hình ở Ý của ông là một điểm gây nhiều tranh cãi. Các đối thủ của Berlusconi cho rằng hệ thống các kênh tivi Mediaset đã đóng vai trò quan trọng trong thành công chính trị của ông với các chiến dịch tuyên truyền quy mô lớn và cách đưa tin thiên vị cho Berlusconi. Đáp lại, những người ủng hộ ông khẳng định các kênh truyền hình đó luôn giữ lập trường chính trị trung lập. Sau khi Berlusconi được bầu làm thủ tướng, đảnh cánh tả đối lập đã cáo buộc ông sử dụng chức vụ của mình để tìm cách kiểm soát kênh truyền hình thuộc sở hữu nhà nước RAI TV và qua đó thao túng hệ thống thông tin trong cả nước Ý."
+      }
+    ],
+    "relevant_query": []
+  },
+  {
+    "id": "0_1",
+    "original_question": "Ông đã đắc cử vào năm 2001 như thế nào?",
+    "relevant_passages": [
+      {
+        "pid": 144217,
+        "passage": "Sự nghiệp chính trị / Thắng cử năm 2001 Silvio Berlusconi Năm 2001, Berlusconi đứng đầu liên minh trung hữu Casa delle Libertà, bao gồm Liên minh quốc gia, Đảng dân chủ Thiên chúa giáo thông nhất, Lega Nord và một số đảng nhỏ khác, ra tranh cử. Lần này ông thắng cử và một lần nữa lên chức Thủ tướng Ý khi liên minh của ông nhận được 45,4% số ghế ở Hạ viện và 42,5% ở Thượng viện. Trong các chương trình truyền hình vận động bầu cử, Berlusconi đã đưa ra năm lời hứa được coi là có ý nghĩa quyết định trong việc ông thắng cử. Một là sẽ cắt giảm hệ thống thuế phức tạp ở Ý xuống còn hai loại (33% với những ai kiếm được hơn 100.000 euro một năm, 23% với những ai kiếm được từ 11.000 đến 100.000 euro và không đánh thuế những ai kiếm được dưới 1.000 euro). Hai là giảm tỷ lệ thất nghiệp xuống còn một nửa. Ba là đầu tư mạnh cho các chương trình phúc lợi xã hội. Bốn là tăng mức lương tối thiểu lên 516 euro và năm là tăng cường mạnh mẽ các hoạt động trấn áp tội phạm. Tuy nhiên, trong suốt hai nhiệm kỳ thủ tướng sau đó, Berlusconi chỉ thực hiện được một lời hứa duy nhất là lời hứa thứ tư."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "0_0",
+        "query": " Hệ thống truyền hình của Berlusconi có vai trò gì trong sự nghiệp chính trị của ông?"
+      }
+    ]
+  },
+  {
+    "id": "0_2",
+    "original_question": "Giai đoạn thập niên 1990, tình hình chính trị Ý có gì đáng chú ý?",
+    "relevant_passages": [
+      {
+        "pid": 29254,
+        "passage": "Lịch sử / Cộng hoà Ý Ý Vào đầu thập niên 1990, Ý đối diện với các thách thức trọng đại, khi cử tri yêu cầu cải cách cấp tiến do thất vọng với tình trạng tê liệt chính trị, nợ công khổng lồ và tham nhũng lan tràn (gọi là ''Tangentopoli'') được vạch trần trong điều tra 'Mani pulite' (bàn tay sạch). Các vụ bê bối liên quan đến toàn bộ các đảng lớn, song đặc biệt là trong liên minh chính phủ: Đảng Dân chủ Cơ Đốc giáo từng cầm quyền gần 50 năm song đến lúc này trải qua một cuộc khủng hoảng nghiêm trọng và cuối cùng phải giải tán vào năm 1994, phân ly thành một vài phe phái. Những người cộng sản tái tổ chức thành một lực lượng dân chủ xã hội. Trong thập niên 1990 và 2000, các liên minh trung-hữu (do ông trùm truyền thông Silvio Berlusconi chi phối) và trung-tả (do giáo sư Romano Prodi lãnh đạo) thay nhau quản lý đất nước."
+      }
+    ],
+    "relevant_query": []
+  },
+  {
+    "id": "0_3",
+    "original_question": "Ông có vai trò gì trong bối cảnh chính trị thời kỳ đó?",
+    "relevant_passages": [
+      {
+        "pid": 29254,
+        "passage": "Lịch sử / Cộng hoà Ý Ý Vào đầu thập niên 1990, Ý đối diện với các thách thức trọng đại, khi cử tri yêu cầu cải cách cấp tiến do thất vọng với tình trạng tê liệt chính trị, nợ công khổng lồ và tham nhũng lan tràn (gọi là ''Tangentopoli'') được vạch trần trong điều tra 'Mani pulite' (bàn tay sạch). Các vụ bê bối liên quan đến toàn bộ các đảng lớn, song đặc biệt là trong liên minh chính phủ: Đảng Dân chủ Cơ Đốc giáo từng cầm quyền gần 50 năm song đến lúc này trải qua một cuộc khủng hoảng nghiêm trọng và cuối cùng phải giải tán vào năm 1994, phân ly thành một vài phe phái. Những người cộng sản tái tổ chức thành một lực lượng dân chủ xã hội. Trong thập niên 1990 và 2000, các liên minh trung-hữu (do ông trùm truyền thông Silvio Berlusconi chi phối) và trung-tả (do giáo sư Romano Prodi lãnh đạo) thay nhau quản lý đất nước."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "0_2",
+        "query": "Giai đoạn thập niên 1990, tình hình chính trị Ý có gì đáng chú ý?"
+      }
+    ]
+  },
+  {
+    "id": "0_4",
+    "original_question": "Đến năm 2009, đời sống cá nhân của ông có biến động gì?",
+    "relevant_passages": [
+      {
+        "pid": 144228,
+        "passage": "Tranh luận / Vợ muốn ly dị Silvio Berlusconi Sau 19 năm chung sống và có với nhau 3 mặt con, vợ của Silvio ngày 3/5, 2009 xác nhận bà sẽ nộp đơn xin ly dị chồng. Cựu nữ diễn viên Veronica Lario đã thuê một luật sư để bắt đầu tiến hành các thủ tục ly hôn giữa bà với Thủ tướng Berlusconi. Tờ La Repubblica, một tờ báo hàng đầu của Ý, cho rằng quyết định của bà Lario được đưa ra sau khi bà đọc được tin tức về việc chồng mình tham dự một bữa tiệc sinh nhật 18 tuổi của một thiếu nữ ở Naples. Ông Berlusconi được cho là đã tặng cô gái này một chiếc vòng cổ bằng vàng có đính những viên kim cương. \"Điều đó là quá đủ. Tôi không thể tiếp tục chung sống với một người đàn ông kết giao với những bé gái còn ở độ tuổi vị thành niên\", bà Lario tức giận nói. \"Điều này cũng làm tôi thực sự ngạc nhiên bởi vì ông ấy chưa bao giờ đến tham dự bất kỳ lễ sinh nhật 18 tuổi nào của các con mình mặc dù chúng muốn ông ấy đến.\""
+      }
+    ],
+    "relevant_query": []
+  },
+  {
+    "id": "0_5",
+    "original_question": "Chính phủ của ông có động thái nào với cuộc khủng hoảng rác thải ở Napoli?",
+    "relevant_passages": [
+      {
+        "pid": 73217,
+        "passage": "Lịch sử / Tái thiết Hậu chiến và Đương đại Napoli Truyền thông Ý cho rằng các vấn đề khủng hoảng rác thải của thành phố là do hoạt động của Camorra, gây ra ô nhiễm môi trường và gia tăng nguy cơ ảnh hưởng sức khỏe. Chính phủ Silvio Berlusconi đã tổ chức các cuộc họp cấp cao tại Napoli năm 2007 để thể hiện ý định giải quyết những vấn đề này. Tuy nhiên, cuộc đại suy thoái 2009 làm trầm trọng thêm các vấn đề kinh tế-xã hội tại thành phố. Đến tháng 8 năm 2011, số người thất nghiệp ở khu vực Nappoli đã lên đến 250.000 người, làm dấy lên các cuộc biểu tình phản đối hiện trạng kinh tế. Những năm gần đây, Napoli đã tổ chức Diễn đàn Đô thị Thế giới lần thứ 6 vào tháng 9 năm 2012 và Đại hội Phi hành vũ trụ Quốc tế lần thứ 63 vào tháng 10 năm 2012. Năm 2013, nó là nơi tổ chức Diễn đàn Văn hóa Toàn cầu. Năm 2016 chứng kiến ​​thành phố trở thành ngôi nhà của Học viện đào tạo phát triển Lập trình Apple – học viện iOS đầu tiên của cả châu Âu. Napoli cũng là nơi đăng cai tổ chức Thế vận hội Đại học mùa hè 2019."
+      }
+    ],
+    "relevant_query": []
+  },
+  {
+    "id": "1_0",
+    "original_question": "Stilicho có xuất thân như thế nào?",
+    "relevant_passages": [
+      {
+        "pid": 351161,
+        "passage": "Tiểu sử / Gia đình=== \nTập tin:Flavius Stilicho.gif|nhỏ|phải|200px|Hình vẽ Stilicho thời Trung Cổ\nStilicho sinh vào năm 360 ở khu vực gần Constantinopolis, cha là người Vandal, từng giữ chức chỉ huy trưởng đại đội kỵ binh trong quân đội La Mã dưới thời Hoàng đế Valens, mẹ là người La Mã cư trú ở vùng Pannonie.\n\n===Binh nghiệp Stilicho Sau khi chiến thắng ở Frigidus, Hoàng đế Theodosius đã khôi phục lại được sự thống nhất toàn vẹn lãnh thổ của Đế quốc La Mã, còn Stilicho nhân cơ hội Đại tướng Timasius vừa qua đời liền ra tay nắm giữ hết mọi binh quyền của triều đình. Riêng về phần Theodosius sau trận chiến vừa về tới kinh thành thì đổ bệnh nặng chỉ nằm liệt một chỗ, biết rằng chẳng còn sống được bao lâu nên ông quyết định chia Đế quốc thành hai phần cho hai người con của ông, phía Đông giao Arcadius còn phía Tây cho Honorius, rồi sau đó tấn phong Stilicho làm người bảo hộ cho Honorius với hy vọng ông sẽ là người xứng đáng với trọng trách bảo đảm sự an nguy và thống nhất của Đế quốc trong tương lai, hậu sự vừa xong thì ít lâu sau Theodosius băng hà vào ngày 17 tháng 1 năm 395."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "0_1",
+        "query": "Ông đã đắc cử vào năm 2001 như thế nào?"
+      }
+    ]
+  },
+  {
+    "id": "1_1",
+    "original_question": "Vai trò của ông trong triều đình Tây La Mã sau khi Theodosius qua đời như thế nào?",
+    "relevant_passages": [
+      {
+        "pid": 266564,
+        "passage": " Đế quốc Tây La Mã Đế quốc Tây La Mã đã tồn tại gián đoạn trong nhiều giai đoạn giữa thế kỷ thứ 3 và thế kỷ thứ 5 sau chế độ \"Tứ đầu chế\" của Diocletianus và liên quan đến các cuộc thống nhất của các Hoàng đế Constantinus I và Julianus (324 - 363). Đời Hoàng đế Valentinianus I, người Tây La Mã có vua sáng tôi hiền nên vinh hiển đánh thắng người German. Theodosius I (379 - 395) là vị Hoàng đế La Mã cuối cùng cai trị một Đế chế La Mã thống nhất là. Sau khi ông mất năm 395, Đế chế La Mã bị chia rẽ mãi mãi, trong đó Đế quốc Tây La Mã do người con yếu kém của ông là Hoàng đế Honorius. Triều đình Tây La Mã suy sụp, nhà vua chỉ còn nắm quyền trên danh nghĩa, trong khi quyền lực thực sự rơi vào tay của một loạt các quyền thần, mà mở đầu với đại tướng Flavius Stilicho. Ông là người lập công hiển hách đánh tan người German và người Gaul. Thành La Mã (Rôma) bị người Đông Goth cướp phá vào năm 410. Ngoài ra, đến đời Hoàng đế Valentinianus III, Đế quốc Tây La Mã cũng hứng chịu cuộc xâm lược của người Hung do vua Attila lãnh đạo, song đại tướng Flavius Aetius đánh tan tác quân Hung trong trận Chalons vào năm 451. Nhưng rồi, đất nước ngày càng suy sụp khi Valentinianus III do tư thù đã ám sát Aetius. Đế quốc Tây La Mã chính thức cáo chung với sự kiện Hoàng đế Romulus Augustus thoái vị dưới sức ép của tướng lĩnh Odoacer của người German vào ngày 4 tháng 9 năm 476, và không chính thức cáo chung với cái chết của cựu hoàng Julius Nepos trong năm 480."
+      }
+    ],
+    "relevant_query": []
+  },
+  {
+    "id": "1_2",
+    "original_question": "Ông ta có chiến công nào đáng chú ý trong việc chống lại các cuộc xâm lược?",
+    "relevant_passages": [
+      {
+        "pid": 351165,
+        "passage": "Tiểu sử / =Thảo phạt Alaric= Stilicho Năm 401, Thủ lĩnh hai man tộc là Alaric của Visigoth và Radagaisus của Ostrogoth chính thức trở thành đồng minh, trù bị kế hoạch xâm lược Đế quốc La Mã. Radagaisus còn kết giao với các tộc khác như Alan, Suevi, và Vandal đồng loạt mang quân tiến công, trước tiên xâm lược vùng Raetia (nay là Rhaetia). Stilicho dẫn quân bản bộ trú đóng gần biên giới phía Bắc vượt sông Danube, đánh bại Radagaisus. Sau đó vội vàng lui binh quay trở lại ngăn chặn Alaric đang trên đường tiến vào nước Ý. Tiếp đến Stilicho cho xuất đại quân chủ lực của ông gồm hơn 30,000 tinh binh chặn đánh tới tấp, nhận thấy lực lượng của mình đã mỏi mệt Alaric hạ lệnh toàn quân đóng trại nghỉ ngơi, nhân lúc trời tối, Stilicho đã tiến hành bố trí đột kích một vài cứ điểm phòng thủ của Alaric ở gần Mediolanium. Alaric nổi giận đốc thúc toàn quân xông lên vây hãm thành phố có tường thành vây quanh này bất chấp những lời cầu xin rút lui của các bộ tướng thân cận."
+      }
+    ],
+    "relevant_query": []
+  },
+  {
+    "id": "1_3",
+    "original_question": "Ông ta có mối liên hệ nào với người Vandal?",
+    "relevant_passages": [
+      {
+        "pid": 421950,
+        "passage": "Lịch sử / Tiến vào đế quốc La Mã Người Vandal Theo tác phẩm Getica của Jordanes, người Hasdingi đã tham gia vào cuộc chiến tranh với người Goth vào khoảng thời điểm mà Constantine Đại đế cai trị. Vào thời điểm đó, người Vandal sống ở vùng đất mà sau này dân Gepid sinh sống. Ở nơi đó, họ bị vây quanh \"ở phía đông là người Goth, về phía tây là người Marcomanni, về phía bắc là người Hermanduri và về phía nam là sông Hister (Donau)\". người Vandal đã bị tấn công bởi vua Geberic của người Goth, và vua Visimar của họ đã bị giết chết. Người Vandal sau đó di cư đến Pannonia, sau khi Constantine Đại Đế (khoảng năm 330) ban cho họ vùng đất bên bờ phải của sông Donau, họ đã sống ở đó trong sáu mươi năm tiếp theo.\nVào khoảng thời gian này, người Hasdingi đã được cải sang đạo Cơ Đốc. Dưới triều đại của Hoàng đế Valens (năm 364-378) người Vandal giống như người Goth trước đó, đã chấp nhận giáo phái Arian, một đức tin mà đối lập với chính thống giáo Nicene của Đế chế La Mã. Tuy nhiên, cũng có một số ít người Vandal chấp nhận chính thống giáo, trong số đó nổi tiếng nhất là Tổng chỉ huy (''Magister militum'') Stilicho dưới thời hoàng đế Honorius."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "0_3",
+        "query": "Ông có vai trò gì trong bối cảnh chính trị thời kỳ đó?"
+      }
+    ]
+  },
+  {
+    "id": "2_0",
+    "original_question": "Deep Blue là gì?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": []
+  },
+  {
+    "id": "2_1",
+    "original_question": "Ai là nhà vô địch thế giới mà Deep Blue đã đánh bại?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": []
+  },
+  {
+    "id": "2_2",
+    "original_question": "Họ gặp nhau lần đầu khi nào?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      }
+    ]
+  },
+  {
+    "id": "2_3",
+    "original_question": "Kết quả trận đấu đó thế nào?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      }
+    ]
+  },
+  {
+    "id": "2_4",
+    "original_question": "Nhưng Deep Blue có thắng ván nào không?",
+    "relevant_passages": [
+      {
+        "pid": 32112,
+        "passage": "Đánh với máy tính / = Deep Blue, 1996 = Garry Kimovich Kasparov Tháng 2 năm 1996, Deep Blue của IBM đã đánh bại Kasparov ván đầu sử dụng đồng hồ đếm thời gian bình thường. Tuy nhiên, sau đó Kasparov đã thắng nó với 3 ván thắng và 2 ván hòa, giành chiến thắng chung cuộc."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "1_3",
+        "query": "Ông ta có mối liên hệ nào với người Vandal?"
+      },
+      {
+        "qid": "2_3",
+        "query": "Kết quả trận đấu đó thế nào?"
+      }
+    ]
+  },
+  {
+    "id": "2_5",
+    "original_question": "Sau thất bại đó, Deep Blue có cơ hội tái đấu không?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "0_4",
+        "query": "Đến năm 2009, đời sống cá nhân của ông có biến động gì?"
+      },
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      }
+    ]
+  },
+  {
+    "id": "2_6",
+    "original_question": "Lần này kết quả ra sao?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      }
+    ]
+  }
+]
