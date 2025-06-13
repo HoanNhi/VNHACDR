@@ -1,29 +1,37 @@
-from collections import defaultdict
-
-from langchain_community.vectorstores import Chroma
-from langchain_huggingface import HuggingFaceEmbeddings
+import bm25s
+import os
 import pytrec_eval
 import json
+from underthesea import word_tokenize
 
-embedding_model = HuggingFaceEmbeddings(model_name="AITeamVN/Vietnamese_Embedding")
-vectorstore = Chroma(
-    collection_name="viWiki",
-    embedding_function=embedding_model,
-    persist_directory="./chroma_store"
-)
-print("Finish loading dataset")
+path = os.path.join("datasets", "bm25s_indices")
+retriever = bm25s.BM25.load(path, load_corpus=True)
 
+stop_words = set()
+with open("datasets/vietnamese-stopwords.txt", "r") as f:
+    for line in f.readlines():
+        stop_words.add(line.strip())
 
 def loadDataset(filename):
     with open(filename) as f:
         data = json.load(f)
     return data
 
+
+def tokenize_query(query):
+    query = query.strip().lower()
+    query = query.replace("'''", "\"")
+    query = query.replace("''", "\"")
+    tokenize = word_tokenize(query)
+    tokenize_clean = [token for token in tokenize if token not in stop_words]
+    # print(len(tokenize_clean))
+    return " ".join(tokenize_clean)
+
 def judge(prev_data, data, turn, queryRaws, relevantPassages, relevantQueries, queryReform, scores):
     query_id = f"{data['session_id']}_{turn['turn_id']}"
     queryRaw = queryRaws[query_id]
 
-    results = vectorstore.similarity_search(queryRaw, k=3)
+    results = retriever.retrieve(tokenize_query(queryRaw), k=5, return_as = "documents")
 
     # Build qrel and run
     qrel = {query_id: {str(turn["pid"]): 1}}
