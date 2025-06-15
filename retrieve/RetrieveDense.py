@@ -6,10 +6,10 @@ from pathlib import Path
 
 # ---------- Config ----------
 INPUT_PATH  = Path("reformulated_queries.json")
-OUTPUT_PATH = Path("results/retrieval_result_dense.json")
+OUTPUT_PATH = Path("results/retrieval_result_dense_100.json")
 PERSIST_DIR = Path("./chroma_store")
 COLLECTION  = "viWiki"
-TOP_K       = 5
+TOP_K       = 100
 MODEL_NAME  = "AITeamVN/Vietnamese_Embedding"
 # ----------------------------
 
