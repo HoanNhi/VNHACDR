@@ -33,8 +33,8 @@ def judge(prev_data, data, turn, queryRaws, relevantPassages, relevantQueries, q
     evaluator = pytrec_eval.RelevanceEvaluator(qrel, {'recip_rank'})
     scores = evaluator.evaluate(run)
     raw_score = scores[query_id]['recip_rank']
-    relevantPassages[query_id] = []
-    relevantQueries[query_id] = []
+    relevantPassages[query_id] = set()
+    relevantQueries[query_id] = set()
     # new_score = raw_score
     for prev_datum in prev_data:
         for prev_turn in prev_datum["turns"]:
@@ -65,19 +65,18 @@ def judge(prev_data, data, turn, queryRaws, relevantPassages, relevantQueries, q
                     # new_score = raw_score_new
                     best_query = new_query_temp
                     queryReform[query_id] = best_query
-                    relevantQueries[query_id].append((prev_qid, prev_turn['new_question']))
+                    relevantQueries[query_id].add((prev_qid, prev_turn['new_question']))
                 elif raw_score_new_with_passage >= raw_score_new:
                     # new_score = raw_score_new_with_passage
                     best_query = new_query_temp_with_passage
                     queryReform[query_id] = best_query
-                    relevantQueries[query_id].append((prev_qid, prev_turn['new_question']))
-                    relevantPassages[query_id].append((prev_turn["pid"], prev_turn["passage"]))
+                    relevantQueries[query_id].add((prev_qid, prev_turn['new_question']))
+                    relevantPassages[query_id].add((prev_turn["pid"], prev_turn["passage"]))
 
-    if (len(relevantPassages[query_id]) == 0):
-        relevantPassages[query_id] = [(turn["pid"], turn["passage"])]
-        if (len(relevantQueries[query_id]) == 0):
-            new_score = raw_score
-            queryReform[query_id] = queryRaw
+    # if (len(relevantPassages[query_id]) == 0):
+    #     relevantPassages[query_id] = [(turn["pid"], turn["passage"])]
+    #     if (len(relevantQueries[query_id]) == 0):
+    #         queryReform[query_id] = queryRaw
 
     # print(f"Original score is {raw_score}")
     # print(f"After updating, the new score is {new_score}. Current query is: {queryReform[query_id]}")

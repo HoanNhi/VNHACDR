@@ -1,0 +1,243 @@
+[
+  {
+    "id": "0_0",
+    "original_question": " Hệ thống truyền hình của Berlusconi có vai trò gì trong sự nghiệp chính trị của ông?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "0_1",
+    "original_question": "Ông đã đắc cử vào năm 2001 như thế nào?",
+    "relevant_passages": [],
+    "relevant_query": [
+      {
+        "qid": "0_0",
+        "query": " Hệ thống truyền hình của Berlusconi có vai trò gì trong sự nghiệp chính trị của ông?"
+      }
+    ]
+  },
+  {
+    "id": "0_2",
+    "original_question": "Giai đoạn thập niên 1990, tình hình chính trị Ý có gì đáng chú ý?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "0_3",
+    "original_question": "Ông có vai trò gì trong bối cảnh chính trị thời kỳ đó?",
+    "relevant_passages": [
+      {
+        "pid": 29254,
+        "passage": "Lịch sử / Cộng hoà Ý Ý Vào đầu thập niên 1990, Ý đối diện với các thách thức trọng đại, khi cử tri yêu cầu cải cách cấp tiến do thất vọng với tình trạng tê liệt chính trị, nợ công khổng lồ và tham nhũng lan tràn (gọi là ''Tangentopoli'') được vạch trần trong điều tra 'Mani pulite' (bàn tay sạch). Các vụ bê bối liên quan đến toàn bộ các đảng lớn, song đặc biệt là trong liên minh chính phủ: Đảng Dân chủ Cơ Đốc giáo từng cầm quyền gần 50 năm song đến lúc này trải qua một cuộc khủng hoảng nghiêm trọng và cuối cùng phải giải tán vào năm 1994, phân ly thành một vài phe phái. Những người cộng sản tái tổ chức thành một lực lượng dân chủ xã hội. Trong thập niên 1990 và 2000, các liên minh trung-hữu (do ông trùm truyền thông Silvio Berlusconi chi phối) và trung-tả (do giáo sư Romano Prodi lãnh đạo) thay nhau quản lý đất nước."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "0_2",
+        "query": "Giai đoạn thập niên 1990, tình hình chính trị Ý có gì đáng chú ý?"
+      }
+    ]
+  },
+  {
+    "id": "0_4",
+    "original_question": "Đến năm 2009, đời sống cá nhân của ông có biến động gì?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "0_5",
+    "original_question": "Chính phủ của ông có động thái nào với cuộc khủng hoảng rác thải ở Napoli?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "1_0",
+    "original_question": "Stilicho có xuất thân như thế nào?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "1_1",
+    "original_question": "Vai trò của ông trong triều đình Tây La Mã sau khi Theodosius qua đời như thế nào?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "1_2",
+    "original_question": "Ông ta có chiến công nào đáng chú ý trong việc chống lại các cuộc xâm lược?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "1_3",
+    "original_question": "Ông ta có mối liên hệ nào với người Vandal?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "2_0",
+    "original_question": "Deep Blue là gì?",
+    "relevant_passages": [],
+    "relevant_query": []
+  },
+  {
+    "id": "2_1",
+    "original_question": "Ai là nhà vô địch thế giới mà Deep Blue đã đánh bại?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      }
+    ]
+  },
+  {
+    "id": "2_2",
+    "original_question": "Họ gặp nhau lần đầu khi nào?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_1",
+        "query": "Ai là nhà vô địch thế giới mà Deep Blue đã đánh bại?"
+      },
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      }
+    ]
+  },
+  {
+    "id": "2_3",
+    "original_question": "Kết quả trận đấu đó thế nào?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_1",
+        "query": "Ai là nhà vô địch thế giới mà Deep Blue đã đánh bại?"
+      },
+      {
+        "qid": "2_2",
+        "query": "Họ gặp nhau lần đầu khi nào?"
+      },
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      }
+    ]
+  },
+  {
+    "id": "2_4",
+    "original_question": "Nhưng Deep Blue có thắng ván nào không?",
+    "relevant_passages": [
+      {
+        "pid": 32112,
+        "passage": "Đánh với máy tính / = Deep Blue, 1996 = Garry Kimovich Kasparov Tháng 2 năm 1996, Deep Blue của IBM đã đánh bại Kasparov ván đầu sử dụng đồng hồ đếm thời gian bình thường. Tuy nhiên, sau đó Kasparov đã thắng nó với 3 ván thắng và 2 ván hòa, giành chiến thắng chung cuộc."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_1",
+        "query": "Ai là nhà vô địch thế giới mà Deep Blue đã đánh bại?"
+      },
+      {
+        "qid": "2_3",
+        "query": "Kết quả trận đấu đó thế nào?"
+      },
+      {
+        "qid": "2_2",
+        "query": "Họ gặp nhau lần đầu khi nào?"
+      }
+    ]
+  },
+  {
+    "id": "2_5",
+    "original_question": "Sau thất bại đó, Deep Blue có cơ hội tái đấu không?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      },
+      {
+        "pid": 32112,
+        "passage": "Đánh với máy tính / = Deep Blue, 1996 = Garry Kimovich Kasparov Tháng 2 năm 1996, Deep Blue của IBM đã đánh bại Kasparov ván đầu sử dụng đồng hồ đếm thời gian bình thường. Tuy nhiên, sau đó Kasparov đã thắng nó với 3 ván thắng và 2 ván hòa, giành chiến thắng chung cuộc."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_1",
+        "query": "Ai là nhà vô địch thế giới mà Deep Blue đã đánh bại?"
+      },
+      {
+        "qid": "2_2",
+        "query": "Họ gặp nhau lần đầu khi nào?"
+      },
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      },
+      {
+        "qid": "2_4",
+        "query": "Nhưng Deep Blue có thắng ván nào không?"
+      },
+      {
+        "qid": "2_3",
+        "query": "Kết quả trận đấu đó thế nào?"
+      }
+    ]
+  },
+  {
+    "id": "2_6",
+    "original_question": "Lần này kết quả ra sao?",
+    "relevant_passages": [
+      {
+        "pid": 785609,
+        "passage": " Deep Blue '''Deep Blue''' là một hệ chuyên gia chơi cờ vua chạy trên một siêu máy tính đơn mục đích do IBM phát triển. Nó là máy tính đầu tiên thắng được một ván, và sau này là một trận, trước một nhà đương kim vô địch thế giới trong giới hạn thời gian tiêu chuẩn. , tiền thân của Deep Blue, được phát triển từ năm 1985 tại Đại học Carnegie Mellon; sau đó, nó được chuyển giao cho IBM và đổi tên thành , rồi Deep Blue (1989). Nó  nhà vô địch thế giới Garry Kimovich Kasparov lần đầu tiên vào năm 1996 và thua với tỉ số 2 – 4. Năm 1997, sau khi được nâng cấp, nó tái đấu với Kasparov và thắng chung cuộc với 2 ván thắng, 3 ván hoà trong tổng số 6 ván đấu. Chiến thắng này của Deep Blue được coi là một cột mốc trong lịch sử ngành trí tuệ nhân tạo và là chủ đề của nhiều tác phẩm."
+      },
+      {
+        "pid": 32112,
+        "passage": "Đánh với máy tính / = Deep Blue, 1996 = Garry Kimovich Kasparov Tháng 2 năm 1996, Deep Blue của IBM đã đánh bại Kasparov ván đầu sử dụng đồng hồ đếm thời gian bình thường. Tuy nhiên, sau đó Kasparov đã thắng nó với 3 ván thắng và 2 ván hòa, giành chiến thắng chung cuộc."
+      }
+    ],
+    "relevant_query": [
+      {
+        "qid": "2_1",
+        "query": "Ai là nhà vô địch thế giới mà Deep Blue đã đánh bại?"
+      },
+      {
+        "qid": "2_2",
+        "query": "Họ gặp nhau lần đầu khi nào?"
+      },
+      {
+        "qid": "2_5",
+        "query": "Sau thất bại đó, Deep Blue có cơ hội tái đấu không?"
+      },
+      {
+        "qid": "2_0",
+        "query": "Deep Blue là gì?"
+      },
+      {
+        "qid": "2_4",
+        "query": "Nhưng Deep Blue có thắng ván nào không?"
+      },
+      {
+        "qid": "2_3",
+        "query": "Kết quả trận đấu đó thế nào?"
+      }
+    ]
+  }
+]
